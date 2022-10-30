@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lauri-kaariainen.github.io/csb-9s4yes/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/main.9789088f.chunk.js",
+    "main.js.map": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/main.9789088f.chunk.js.map",
+    "runtime-main.js": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/runtime-main.8f9fa6b1.js",
+    "runtime-main.js.map": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/runtime-main.8f9fa6b1.js.map",
+    "static/js/2.476347c7.chunk.js": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/2.476347c7.chunk.js",
+    "static/js/2.476347c7.chunk.js.map": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/2.476347c7.chunk.js.map",
+    "index.html": "https://lauri-kaariainen.github.io/csb-9s4yes/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lauri-kaariainen.github.io/csb-9s4yes/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.476347c7.chunk.js.LICENSE.txt": "https://lauri-kaariainen.github.io/csb-9s4yes/static/js/2.476347c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9fa6b1.js",
+    "static/js/2.476347c7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9789088f.chunk.js"
+  ]
+}
